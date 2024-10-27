@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 4.0.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1638" height="1222">
+	<rect x="0" y="0" width="1638" height="1222" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,234 702,416"/>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,1014 702,1077"/>
+		<polygon fill="#404040" stroke="none" points="702,1092 716,1066 687,1066"/>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 130,26 A 104 104, 0, 0 0, 130 234 L 1274,234 A 104 104, 0, 0 0, 1274 26 Z"/>
+			<text x="702" y="44" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="702" dy="52" unicode-bidi="embed">area</tspan>
+				<tspan x="702" dy="52" unicode-bidi="embed">(Integer x1, Integer y1, Integer x2, Integer y2, Integer</tspan>
+				<tspan x="702" dy="52" unicode-bidi="embed"> x3, Integer y3)</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 494,1092 A 52 52, 0, 0 0, 494 1196 L 910,1196 A 52 52, 0, 0 0, 910 1092 Z"/>
+			<text x="702" y="1110" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="702" dy="52" unicode-bidi="embed">Return Real result</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,416 702,583"/>
+			<polygon fill="#404040" stroke="none" points="702,598 716,572 687,572"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,728 702,791"/>
+			<polygon fill="#404040" stroke="none" points="702,806 716,780 687,780"/>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,416 832,416"/>
+				<g>
+					<path fill="#2080D0" stroke="#104070" stroke-width="3" stroke-dasharray="6,6" d="M 832,312 L 832,520 L 1612,520 L 1612,312 Z"/>
+					<text x="1222" y="330" fill="#FFFFFF" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1222" dy="52" unicode-bidi="embed">Funcion para calcular el area del</tspan>
+						<tspan x="1222" dy="52" unicode-bidi="embed"> triangulo formado por los puntos</tspan>
+						<tspan x="1222" dy="52" unicode-bidi="embed"> (x1, y1), (x2, y2) and (x3, y3)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 546,598 L 546,728 L 858,728 L 858,598 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="546,624 858,624"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="572,598 572,728"/>
+				<text x="715" y="642" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Real result</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 390,806 L 390,1014 L 1014,1014 L 1014,806 Z"/>
+				<text x="702" y="824" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="702" dy="52" unicode-bidi="embed">result = abs((x1*(y2-y3) +</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed"> x2*(y3-y1)+ x3*(y1-</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed">y2))/2.0)</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

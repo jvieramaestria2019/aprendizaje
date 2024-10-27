@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 4.0.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="2002" height="8190">
+	<rect x="0" y="0" width="2002" height="8190" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,130 1014,728"/>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,7982 1014,8045"/>
+		<polygon fill="#404040" stroke="none" points="1014,8060 1028,8034 999,8034"/>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 910,26 A 52 52, 0, 0 0, 910 130 L 1118,130 A 52 52, 0, 0 0, 1118 26 Z"/>
+			<text x="1014" y="44" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="1014" dy="52" unicode-bidi="embed">Main</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 910,8060 A 52 52, 0, 0 0, 910 8164 L 1118,8164 A 52 52, 0, 0 0, 1118 8060 Z"/>
+			<text x="1014" y="8078" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="1014" dy="52" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,728 1014,1378"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,1378 1014,1493"/>
+			<polygon fill="#404040" stroke="none" points="1014,1508 1028,1482 999,1482"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,1638 1014,1701"/>
+			<polygon fill="#404040" stroke="none" points="1014,1716 1028,1690 999,1690"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,1846 1014,1976"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,1976 1014,2091"/>
+			<polygon fill="#404040" stroke="none" points="1014,2106 1028,2080 999,2080"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,2236 1014,2299"/>
+			<polygon fill="#404040" stroke="none" points="1014,2314 1028,2288 999,2288"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,2444 1014,2574"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,2574 1014,2689"/>
+			<polygon fill="#404040" stroke="none" points="1014,2704 1028,2678 999,2678"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,2834 1014,2897"/>
+			<polygon fill="#404040" stroke="none" points="1014,2912 1028,2886 999,2886"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,3042 1014,3172"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,3172 1014,3287"/>
+			<polygon fill="#404040" stroke="none" points="1014,3302 1028,3276 999,3276"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,3432 1014,3495"/>
+			<polygon fill="#404040" stroke="none" points="1014,3510 1028,3484 999,3484"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,3640 1014,3703"/>
+			<polygon fill="#404040" stroke="none" points="1014,3718 1028,3692 999,3692"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,3874 1014,3937"/>
+			<polygon fill="#404040" stroke="none" points="1014,3952 1028,3926 999,3926"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,4056 1014,4119"/>
+			<polygon fill="#404040" stroke="none" points="1014,4134 1028,4108 999,4108"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,4290 1014,4353"/>
+			<polygon fill="#404040" stroke="none" points="1014,4368 1028,4342 999,4342"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,4472 1014,4535"/>
+			<polygon fill="#404040" stroke="none" points="1014,4550 1028,4524 999,4524"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,4706 1014,4769"/>
+			<polygon fill="#404040" stroke="none" points="1014,4784 1028,4758 999,4758"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,4888 1014,4951"/>
+			<polygon fill="#404040" stroke="none" points="1014,4966 1028,4940 999,4940"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,5122 1014,5185"/>
+			<polygon fill="#404040" stroke="none" points="1014,5200 1028,5174 999,5174"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,5304 1014,5367"/>
+			<polygon fill="#404040" stroke="none" points="1014,5382 1028,5356 999,5356"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,5538 1014,5601"/>
+			<polygon fill="#404040" stroke="none" points="1014,5616 1028,5590 999,5590"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,5720 1014,5783"/>
+			<polygon fill="#404040" stroke="none" points="1014,5798 1028,5772 999,5772"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,5954 1014,6017"/>
+			<polygon fill="#404040" stroke="none" points="1014,6032 1028,6006 999,6006"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,6136 1014,6199"/>
+			<polygon fill="#404040" stroke="none" points="1014,6214 1028,6188 999,6188"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,6370 1014,6433"/>
+			<polygon fill="#404040" stroke="none" points="1014,6448 1028,6422 999,6422"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,6552 1014,6615"/>
+			<polygon fill="#404040" stroke="none" points="1014,6630 1028,6604 999,6604"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,6786 1014,6849"/>
+			<polygon fill="#404040" stroke="none" points="1014,6864 1028,6838 999,6838"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,6968 1014,7124"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1014,7124 1014,7265"/>
+			<polygon fill="#404040" stroke="none" points="1014,7280 1028,7254 999,7254"/>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,728 1144,728"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,208 L 1144,1248 L 1976,1248 L 1976,208 Z"/>
+					<text x="1560" y="226" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1560" dy="52" unicode-bidi="embed">Por ejemplo, considere el siguiente</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> programa. Da cierto para P(10, 15) y</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> falso para P'(30,</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> 15)&#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"></tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">&#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">             B(10,30)             </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">                 / \                 </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">                 /   \                   </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">               /      \               </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">           /   P   \      P'  </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">     /            \      </tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed"> &#13;</tspan>
+						<tspan x="1560" dy="52" unicode-bidi="embed">  A(0,0) -------------- C(20,0)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,1378 1144,1378"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,1326 L 1144,1430 L 1716,1430 L 1716,1326 Z"/>
+					<text x="1430" y="1344" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1430" dy="52" unicode-bidi="embed">Coordenadas A(x1, y1)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,1508 L 858,1638 L 1170,1638 L 1170,1508 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,1534 1170,1534"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,1508 884,1638"/>
+				<text x="1027" y="1552" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer x1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,1716 L 858,1846 L 1170,1846 L 1170,1716 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,1742 1170,1742"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,1716 884,1846"/>
+				<text x="1027" y="1760" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer y1</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,1976 1144,1976"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,1924 L 1144,2028 L 1716,2028 L 1716,1924 Z"/>
+					<text x="1430" y="1942" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1430" dy="52" unicode-bidi="embed">Coordenadas B(x2, y2)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,2106 L 858,2236 L 1170,2236 L 1170,2106 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,2132 1170,2132"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,2106 884,2236"/>
+				<text x="1027" y="2150" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer x2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,2314 L 858,2444 L 1170,2444 L 1170,2314 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,2340 1170,2340"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,2314 884,2444"/>
+				<text x="1027" y="2358" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer y2</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,2574 1144,2574"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,2522 L 1144,2626 L 1716,2626 L 1716,2522 Z"/>
+					<text x="1430" y="2540" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1430" dy="52" unicode-bidi="embed">Coordenadas C(x3, y3)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,2704 L 858,2834 L 1170,2834 L 1170,2704 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,2730 1170,2730"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,2704 884,2834"/>
+				<text x="1027" y="2748" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer x3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,2912 L 858,3042 L 1170,3042 L 1170,2912 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,2938 1170,2938"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,2912 884,3042"/>
+				<text x="1027" y="2956" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer y3</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,3172 1144,3172"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,3120 L 1144,3224 L 1612,3224 L 1612,3120 Z"/>
+					<text x="1378" y="3138" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1378" dy="52" unicode-bidi="embed">Coordenadas P(x, y)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,3302 L 858,3432 L 1170,3432 L 1170,3302 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,3328 1170,3328"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,3302 884,3432"/>
+				<text x="1027" y="3346" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer x</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 858,3510 L 858,3640 L 1170,3640 L 1170,3510 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="858,3536 1170,3536"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="884,3510 884,3640"/>
+				<text x="1027" y="3554" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1027" dy="52" unicode-bidi="embed">Integer y</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,3718 L 624,3874 L 1326,3874 L 1404,3718 Z"/>
+				<text x="1014" y="3736" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada x1 of</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed"> A(x1, y1)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,3952 L 832,4056 L 1144,4056 L 1196,3952 Z"/>
+				<text x="1014" y="3970" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input x1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,4134 L 624,4290 L 1326,4290 L 1404,4134 Z"/>
+				<text x="1014" y="4152" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada y1 of</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed"> A(x1, y1)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,4368 L 832,4472 L 1144,4472 L 1196,4368 Z"/>
+				<text x="1014" y="4386" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input y1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,4550 L 624,4706 L 1326,4706 L 1404,4550 Z"/>
+				<text x="1014" y="4568" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenadax2 of B</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed">(x2, y2)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,4784 L 832,4888 L 1144,4888 L 1196,4784 Z"/>
+				<text x="1014" y="4802" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input x2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,4966 L 624,5122 L 1326,5122 L 1404,4966 Z"/>
+				<text x="1014" y="4984" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada y2 of</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed"> A(x2, y2)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,5200 L 832,5304 L 1144,5304 L 1196,5200 Z"/>
+				<text x="1014" y="5218" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input y2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,5382 L 624,5538 L 1326,5538 L 1404,5382 Z"/>
+				<text x="1014" y="5400" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada x3 of</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed"> C(x3, y3)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,5616 L 832,5720 L 1144,5720 L 1196,5616 Z"/>
+				<text x="1014" y="5634" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input x3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,5798 L 624,5954 L 1326,5954 L 1404,5798 Z"/>
+				<text x="1014" y="5816" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada y3 of</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed"> C(x3, y3)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 884,6032 L 832,6136 L 1144,6136 L 1196,6032 Z"/>
+				<text x="1014" y="6050" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input y3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,6214 L 624,6370 L 1326,6370 L 1404,6214 Z"/>
+				<text x="1014" y="6232" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada x of P</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed">(x, y)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 910,6448 L 858,6552 L 1118,6552 L 1170,6448 Z"/>
+				<text x="1014" y="6466" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input x</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 702,6630 L 624,6786 L 1326,6786 L 1404,6630 Z"/>
+				<text x="1014" y="6648" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Output &quot;Coordenada y of P</tspan>
+					<tspan x="1014" dy="52" unicode-bidi="embed">(x, y)&quot;</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E8FF" stroke="#7088A0" stroke-width="3" stroke-dasharray="none" d="M 910,6864 L 858,6968 L 1118,6968 L 1170,6864 Z"/>
+				<text x="1014" y="6882" fill="#102840" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1014" dy="52" unicode-bidi="embed">Input y</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="1014,7124 1144,7124"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 1144,7046 L 1144,7202 L 1924,7202 L 1924,7046 Z"/>
+					<text x="1534" y="7064" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1534" dy="52" unicode-bidi="embed">i.e. isInside(0, 0, 20, 0, 10, 30, 10,</tspan>
+						<tspan x="1534" dy="52" unicode-bidi="embed"> 15)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1404,7488 1586,7488 1586,7733"/>
+				<polygon fill="#404040" stroke="none" points="1586,7748 1600,7722 1571,7722"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1586,7852 1586,7956 1054,7956"/>
+				<polygon fill="#404040" stroke="none" points="1040,7956 1065,7970 1065,7941"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="624,7488 416,7488 416,7733"/>
+				<polygon fill="#404040" stroke="none" points="416,7748 430,7722 401,7722"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="416,7852 416,7956 973,7956"/>
+				<polygon fill="#404040" stroke="none" points="988,7956 962,7941 962,7970"/>
+				<g>
+					<path fill="#FFD8D8" stroke="#A07878" stroke-width="3" stroke-dasharray="none" d="M 1014,7280 L 598,7488 L 1014,7696 L 1430,7488 Z"/>
+					<text x="1014" y="7428" fill="#401818" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1014" dy="52" unicode-bidi="embed">isInside(x1, y1, x2, y2, x3,</tspan>
+						<tspan x="1014" dy="52" unicode-bidi="embed"> y3, x, y)</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 1300,7748 L 1248,7852 L 1872,7852 L 1924,7748 Z"/>
+					<text x="1586" y="7766" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1586" dy="52" unicode-bidi="embed">Output &quot;P esta adentro&quot;</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#D8FFD8" stroke="#78A078" stroke-width="3" stroke-dasharray="none" d="M 104,7748 L 52,7852 L 728,7852 L 780,7748 Z"/>
+					<text x="416" y="7766" fill="#184018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="416" dy="52" unicode-bidi="embed">Output &quot;P no esta adentro&quot;</tspan>
+					</text>
+				</g>
+				<ellipse cx="1014" cy="7956" rx="26" ry="26" fill="#FFD8D8" stroke="#A07878" stroke-width="3"/>
+				<text x="1508" y="7402" fill="#303030" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1508" dy="52" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="507" y="7402" fill="#303030" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="507" dy="52" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
