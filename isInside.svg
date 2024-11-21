@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 4.0.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1690" height="4160">
+	<rect x="0" y="0" width="1690" height="4160" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,234 702,442"/>
+		<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,3952 702,4015"/>
+		<polygon fill="#404040" stroke="none" points="702,4030 716,4004 687,4004"/>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 130,26 A 104 104, 0, 0 0, 130 234 L 1274,234 A 104 104, 0, 0 0, 1274 26 Z"/>
+			<text x="702" y="44" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="702" dy="52" unicode-bidi="embed">isInside</tspan>
+				<tspan x="702" dy="52" unicode-bidi="embed">(Integer x1, Integer y1, Integer x2, Integer y2, Integer</tspan>
+				<tspan x="702" dy="52" unicode-bidi="embed"> x3, Integer y3, Integer x, Integer y)</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0E0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 468,4030 A 52 52, 0, 0 0, 468 4134 L 936,4134 A 52 52, 0, 0 0, 936 4030 Z"/>
+			<text x="702" y="4048" fill="#301040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="702" dy="52" unicode-bidi="embed">Return Boolean result</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,442 702,635"/>
+			<polygon fill="#404040" stroke="none" points="702,650 716,624 687,624"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,780 702,843"/>
+			<polygon fill="#404040" stroke="none" points="702,858 716,832 687,832"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,988 702,1051"/>
+			<polygon fill="#404040" stroke="none" points="702,1066 716,1040 687,1040"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,1196 702,1259"/>
+			<polygon fill="#404040" stroke="none" points="702,1274 716,1248 687,1248"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,1404 702,1467"/>
+			<polygon fill="#404040" stroke="none" points="702,1482 716,1456 687,1456"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,1612 702,1742"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,1742 702,1857"/>
+			<polygon fill="#404040" stroke="none" points="702,1872 716,1846 687,1846"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2028 702,2158"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2158 702,2273"/>
+			<polygon fill="#404040" stroke="none" points="702,2288 716,2262 687,2262"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2444 702,2574"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2574 702,2689"/>
+			<polygon fill="#404040" stroke="none" points="702,2704 716,2678 687,2678"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2860 702,2990"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,2990 702,3105"/>
+			<polygon fill="#404040" stroke="none" points="702,3120 716,3094 687,3094"/>
+			<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="702,3276 702,3339"/>
+			<polygon fill="#404040" stroke="none" points="702,3354 716,3328 687,3328"/>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,442 832,442"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 832,312 L 832,572 L 1664,572 L 1664,312 Z"/>
+					<text x="1248" y="330" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1248" dy="52" unicode-bidi="embed">Una funcion para revisar si el punto P</tspan>
+						<tspan x="1248" dy="52" unicode-bidi="embed">(x, y) esta adentro del triangulo</tspan>
+						<tspan x="1248" dy="52" unicode-bidi="embed"> formado por los puntos A(x1, y1), B</tspan>
+						<tspan x="1248" dy="52" unicode-bidi="embed">(x2, y2) y C(x3, y3)</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 546,650 L 546,780 L 858,780 L 858,650 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="546,676 858,676"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="572,650 572,780"/>
+				<text x="715" y="694" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Real A</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 546,858 L 546,988 L 858,988 L 858,858 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="546,884 858,884"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="572,858 572,988"/>
+				<text x="715" y="902" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Real A1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 546,1066 L 546,1196 L 858,1196 L 858,1066 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="546,1092 858,1092"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="572,1066 572,1196"/>
+				<text x="715" y="1110" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Real A2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 546,1274 L 546,1404 L 858,1404 L 858,1274 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="546,1300 858,1300"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="572,1274 572,1404"/>
+				<text x="715" y="1318" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Real A3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 494,1482 L 494,1612 L 910,1612 L 910,1482 Z"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="494,1508 910,1508"/>
+				<polyline fill="none" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" points="520,1482 520,1612"/>
+				<text x="715" y="1526" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="715" dy="52" unicode-bidi="embed">Boolean result</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,1742 832,1742"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 832,1690 L 832,1794 L 1612,1794 L 1612,1690 Z"/>
+					<text x="1222" y="1708" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1222" dy="52" unicode-bidi="embed">Calcula el area del triangulo ABC</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 390,1872 L 390,2028 L 1014,2028 L 1014,1872 Z"/>
+				<text x="702" y="1890" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="702" dy="52" unicode-bidi="embed">A = area (x1, y1, x2, y2, x3,</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed"> y3)</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,2158 832,2158"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 832,2106 L 832,2210 L 1612,2210 L 1612,2106 Z"/>
+					<text x="1222" y="2124" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1222" dy="52" unicode-bidi="embed">Calcula el area del triangulo PBC</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 390,2288 L 390,2444 L 1014,2444 L 1014,2288 Z"/>
+				<text x="702" y="2306" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="702" dy="52" unicode-bidi="embed">A1 = area (x, y, x2, y2, x3,</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed"> y3)</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,2574 832,2574"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 832,2522 L 832,2626 L 1612,2626 L 1612,2522 Z"/>
+					<text x="1222" y="2540" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1222" dy="52" unicode-bidi="embed">Calcula el area del triangulo PAC</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 390,2704 L 390,2860 L 1014,2860 L 1014,2704 Z"/>
+				<text x="702" y="2722" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="702" dy="52" unicode-bidi="embed">A2 = area (x1, y1, x, y, x3,</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed"> y3)</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="7,14" points="702,2990 832,2990"/>
+				<g>
+					<path fill="#FFFFFF" stroke="#404040" stroke-width="3" stroke-dasharray="6,6" d="M 832,2938 L 832,3042 L 1560,3042 L 1560,2938 Z"/>
+					<text x="1196" y="2956" fill="#404040" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1196" dy="52" unicode-bidi="embed">Calcula el area del triangulo PAB</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 390,3120 L 390,3276 L 1014,3276 L 1014,3120 Z"/>
+				<text x="702" y="3138" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="702" dy="52" unicode-bidi="embed">A3 = area (x1, y1, x2, y2, x,</tspan>
+					<tspan x="702" dy="52" unicode-bidi="embed"> y)</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="962,3510 1144,3510 1144,3703"/>
+				<polygon fill="#404040" stroke="none" points="1144,3718 1158,3692 1129,3692"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="1144,3822 1144,3926 742,3926"/>
+				<polygon fill="#404040" stroke="none" points="728,3926 753,3940 753,3911"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="442,3510 234,3510 234,3703"/>
+				<polygon fill="#404040" stroke="none" points="234,3718 248,3692 219,3692"/>
+				<polyline fill="none" stroke="#404040" stroke-width="7" stroke-dasharray="none" points="234,3822 234,3926 661,3926"/>
+				<polygon fill="#404040" stroke="none" points="676,3926 650,3911 650,3940"/>
+				<g>
+					<path fill="#FFD8D8" stroke="#A07878" stroke-width="3" stroke-dasharray="none" d="M 702,3354 L 416,3510 L 702,3666 L 988,3510 Z"/>
+					<text x="702" y="3476" fill="#401818" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="702" dy="52" unicode-bidi="embed">A = A1 + A2 + A3</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 962,3718 L 962,3822 L 1326,3822 L 1326,3718 Z"/>
+					<text x="1144" y="3736" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1144" dy="52" unicode-bidi="embed">result = True</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#FFFFD8" stroke="#A0A078" stroke-width="3" stroke-dasharray="none" d="M 52,3718 L 52,3822 L 416,3822 L 416,3718 Z"/>
+					<text x="234" y="3736" fill="#404018" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="234" dy="52" unicode-bidi="embed">result = False</tspan>
+					</text>
+				</g>
+				<ellipse cx="702" cy="3926" rx="26" ry="26" fill="#FFD8D8" stroke="#A07878" stroke-width="3"/>
+				<text x="1066" y="3424" fill="#303030" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1066" dy="52" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="325" y="3424" fill="#303030" font-family="Tahoma" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="325" dy="52" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
